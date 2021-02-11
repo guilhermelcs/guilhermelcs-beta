@@ -25,7 +25,7 @@
           </p>
 
           <BaseLinkLikeButton class="blogCard__btn" :to="edge.node.path">
-            Read the article
+            Ler Publicação
           </BaseLinkLikeButton>
         </div>
       </article>

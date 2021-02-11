@@ -12,7 +12,7 @@
       <article class="post__article container container--sm">
         <VueRemarkContent class="post__content" />
 
-        <BaseLinkLikeButton class="post__backBtn" to="/">Back to Blog</BaseLinkLikeButton>
+        <BaseLinkLikeButton class="post__backBtn" to="/">Voltar</BaseLinkLikeButton>
       </article>
     </main>
   </Layout>
