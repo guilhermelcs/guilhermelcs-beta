@@ -1,10 +1,10 @@
 <template>
   <div class="pageTransitionOverlay">
-    <LogoComponent
+    <!-- <LogoComponent
       class="pageTransitionOverlay__logo"
       version="simple"
       desc="Page transition overlay's logo"
-    />
+    /> -->
   </div>
 </template>
 
@@ -30,7 +30,7 @@ export default {
   justify-content: center;
   align-items: center;
   opacity: 0;
-  background: $color-menu-gradient;
+  background: $color-body-bg;
 
   &__logo {
     width: 250px;

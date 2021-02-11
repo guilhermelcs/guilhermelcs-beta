@@ -26,11 +26,11 @@ export default {
     return {
       websites: [
         {
-          link: "https://github.com/OziOcb/Gridsome-and-Markdown-Starter-Kit",
+          link: "https://github.com/guilhermelcs",
           svg: "github"
         },
         {
-          link: "https://github.com/OziOcb/Gridsome-and-Markdown-Starter-Kit",
+          link: "https://www.linkedin.com/in/guilherme-lucas-evangelista/",
           svg: "linkedin"
         }
       ]

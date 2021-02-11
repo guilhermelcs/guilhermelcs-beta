@@ -65,17 +65,17 @@ export default function(Vue, { router, head, isClient }) {
     {
       key: "author",
       name: "author",
-      content: "Paul Ozyzniewski"
+      content: "Guilherme Lucas"
     },
     {
       key: "description",
       name: "description",
-      content: "YOUR DESCRIPTION IN HERE"
+      content: "Blog pessoal de Guilherme Lucas Oliveira Evangelista"
     },
     {
       key: "keywords",
       name: "keywords",
-      content: "YOUR, KEYWORDS, IN, HERE"
+      content: "BLOG, GUILHERMELCS, GUILHERME LUCAS, GUILHERME EVANGELISTA, GUILHERME"
     },
     { key: "robots", name: "robots", content: "index, follow, noodp, noydir" }
   )

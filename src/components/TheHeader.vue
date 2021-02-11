@@ -1,39 +1,10 @@
 <template>
   <header class="header">
     <div class="header__inner container">
-      <LogoComponent class="header__logo" version="simple" desc="Main Logo" />
-
-      <div class="header__hamburger">
-        <button
-          ref="hamburger"
-          class="hamburger"
-          aria-controls="dropdowMenuContent"
-          :aria-expanded="ariaExpanded.toString()"
-          aria-label="Toggle navigation"
-          @click="handleAriaExpanded"
-        >
-          <span class="hamburger__line line01"></span>
-          <span class="hamburger__line line02"></span>
-          <span class="hamburger__line line03"></span>
-          <span class="hamburger__line line04"></span>
-        </button>
-      </div>
-
-      <div id="dropdowMenuContent" class="header__menu">
-        <nav class="nav">
-          <ul class="nav__list">
-            <li v-for="(page, index) in pages" :key="index" class="nav__item">
-              <g-link class="nav__link" :to="page.url">
-                {{ page.name }}
-              </g-link>
-            </li>
-          </ul>
-        </nav>
-
-        <div class="header__socialIcons header__socialIcons--mobile">
-          <SocialIcons parent-component="the Header" />
-        </div>
-      </div>
+      <!-- <LogoComponent class="header__logo" version="simple" desc="Main Logo" /> -->
+      <g-link class="blog-title" :to="'/'">
+        Guilhermelcs
+      </g-link>
     </div>
   </header>
 </template>
@@ -51,66 +22,10 @@ export default {
   },
   data() {
     return {
-      ariaExpanded: false,
-      pages: [
-        {
-          name: "Home",
-          url: "/"
-        },
-        {
-          name: "Blog",
-          url: "/blog/"
-        }
-      ]
+      ariaExpanded: false
     }
   },
-  mounted() {
-    const { hamburger } = this.$refs
-    const hamburgerMotion = gsap.timeline()
 
-    gsap.set(".nav", { xPercent: -50, yPercent: -50 })
-    gsap.set(".nav li", { translateX: -300 })
-    gsap.set(".header__socialIcons--mobile", { translateX: 110 })
-
-    hamburgerMotion
-      .addLabel("step1")
-      .to(".hamburger", 0.4, { backgroundColor: "transparent" }, "step1")
-      .to(".line01", 0.4, { translateX: "+=40" }, "step1")
-      .to(".line04", 0.4, { translateX: "-=40" }, "step1")
-      .to(".header__menu", 0.4, { autoAlpha: 1 }, "step1")
-      .addLabel("step2")
-      .staggerTo(".nav li", 0.45, { translateX: 0, ease: Sine.easeOut }, 0.3, 0.5)
-      .to(".header__socialIcons--mobile", 0.4, { translateX: 0, ease: Sine.easeOut })
-      .to(".line02", 0.4, { translateY: "+=5" }, "step2")
-      .to(".line03", 0.4, { translateY: "-=4" }, "step2")
-      .addLabel("step3")
-      .to(".nav li", 1, { marginBottom: "40px", ease: Power1.easeOut }, "step3")
-      .to(".line02", 1, { rotation: 45, transformOrigin: "center" }, "step3")
-      .to(".line03", 1, { rotation: -45, transformOrigin: "center" }, "step3")
-      .reverse()
-
-    hamburger.addEventListener("click", function() {
-      hamburgerMotion.reversed(!hamburgerMotion.reversed())
-    })
-
-    // Hide menu after clicking on .nav__link
-    const navList = document.querySelector(".nav__list")
-
-    const clickNavLinkHandler = gsap.timeline({ paused: true })
-    clickNavLinkHandler
-      .to(".nav", 0.3, { autoAlpha: 0 }, 0.1, 0)
-      .to(".header__socialIcons--mobile", 0.4, { translateX: 110, ease: Sine.easeOut }, 0)
-      .to(".pageTransitionOverlay", 0.01, { zIndex: 11 }, 0)
-      .to(".pageTransitionOverlay", 0.6, { autoAlpha: 1 }, 0.5)
-
-    navList.addEventListener("click", e => {
-      if (!e.target.classList.contains("active--exact")) {
-        clickNavLinkHandler.play()
-      } else {
-        hamburgerMotion.reverse(0)
-      }
-    })
-  },
   methods: {
     handleAriaExpanded() {
       this.ariaExpanded = !this.ariaExpanded
@@ -120,8 +35,19 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.blog-title {
+  margin-left: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.blog-title:focus {
+  outline: none;
+  box-shadow: none;
+}
+
 .header {
-  position: fixed;
+  position: relative;
   z-index: $layer-header-z-index;
   top: 0;
   right: 0;

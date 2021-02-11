@@ -1,22 +1,11 @@
 <template>
   <footer class="footer">
     <div class="footer__inner container">
-      <LogoComponent class="footer__logo" version="fullWhite" desc="Footer Logo" />
+      <p class="blog-name-footer">Guilhermelcs</p>
 
       <div class="footer__socialIcons">
         <SocialIcons parent-component="the Footer" />
       </div>
-
-      <p class="footer__copyright">
-        <!-- &copy; {{ thisYear }}.
-        <g-link to="/">HOME_PAGE_NAME</g-link> -->
-        Created by
-        <a href="https://www.paulthedeveloper.com" target="_blank" rel="noopener noreferrer">
-          Paul Ozyzniewski
-        </a>
-        - Powered by
-        <a href="https://gridsome.org/" target="_blank" rel="noopener noreferrer">Gridsome</a>
-      </p>
     </div>
   </footer>
 </template>
@@ -62,6 +51,18 @@ export default {
         color: $color-primary;
       }
     }
+  }
+
+  &__inner {
+    text-align: center;
+  }
+}
+
+.blog-name-footer {
+  display: inline-block;
+  color: $color-white;
+  &:hover {
+    color: $color-primary;
   }
 }
 </style>

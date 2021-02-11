@@ -10,14 +10,9 @@
       </header>
 
       <article class="post__article container container--sm">
-        <p class="post__details">
-          {{ $page.post.category }} / {{ $page.post.author }} /
-          {{ formatDate($page.post.created_at) }}
-        </p>
-
         <VueRemarkContent class="post__content" />
 
-        <BaseLinkLikeButton class="post__backBtn" to="/blog">Back to Blog</BaseLinkLikeButton>
+        <BaseLinkLikeButton class="post__backBtn" to="/">Back to Blog</BaseLinkLikeButton>
       </article>
     </main>
   </Layout>
@@ -132,17 +127,22 @@ export default {
     text-align: center;
   }
 
+  &__title {
+    margin-bottom: 20px;
+    font-size: 4rem;
+  }
+
   &__title,
   &__summary {
     color: var(--color-title);
   }
 
   &__divider {
-    margin: 30px auto 40px;
+    margin: 0px auto 40px;
     display: block;
     max-width: 150px;
     height: 3px;
-    background-color: var(--color-title);
+    background-color: $color-green;
     border: none;
   }
 }

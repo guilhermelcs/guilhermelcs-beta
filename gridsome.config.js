@@ -17,7 +17,7 @@ function addStyleResource(rule) {
 }
 
 module.exports = {
-  siteName: "Paul Ozyzniewski Portfolio",
+  siteName: "Guilherme Lucas",
   plugins: [
     {
       use: "gridsome-plugin-base-components"

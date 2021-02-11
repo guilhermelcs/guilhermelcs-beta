@@ -1,6 +1,6 @@
 // BASE
 // naming colors - http://chir.ag/projects/name-that-color
-$color-black: #232323;
+$color-black: #1b1b1b;
 $color-darkGray: #3e3e3e;
 $color-fiord: #465677;
 $color-froly: #ef6f6c;
@@ -10,21 +10,22 @@ $color-lightGray: #efefef;
 $color-red: #f00;
 $color-teal: #007a78;
 $color-white: #fcfcfc;
+$color-green: #00d46a;
 
 // PALETTE
-$color-primary: $color-froly;
+$color-primary: $color-green;
 $color-secondary: $color-fiord;
 $color-accent: $color-teal;
 
 // BACKGROUND
-$color-body-bg: $color-lightGray;
+$color-body-bg: #171717;
 $color-body-bg-alt: $color-black;
 
 // TYPOGRAPHY
-$color-text-default: $color-darkGray;
-$color-text-default-alt: lighten($color-darkGray, 10%);
-$color-text-alt: $color-gray;
-$color-text-alt2: darken($color-white, 20%);
+$color-text-default: $color-white;
+$color-text-default-alt: lighten($color-white, 10%);
+$color-text-alt: $color-white;
+$color-text-alt2: $color-green;
 $color-text-primary: $color-primary;
 $color-text-secondary: $color-secondary;
 
@@ -64,4 +65,4 @@ $color-buttonAlt-shadow: $color-box-shadow;
 $color-buttonAlt-border: $color-black;
 
 // BLOG
-$color-blog-image-beforeElement: $color-gray;
+$color-blog-image-beforeElement: $color-black;

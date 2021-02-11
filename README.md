@@ -44,12 +44,12 @@ head.meta.push(
   {
     key: "author", // Ad.1
     name: "author",
-    content: "Paul Ozyzniewski"
+    content: "Guilherme Lucas"
   },
   {
     key: "description", // Ad.1
     name: "description",
-    content: "YOUR DESCRIPTION IN HERE"
+    content: "Blog pessoal de Guilherme Lucas Oliveira Evangelista"
   }
 )
 ```

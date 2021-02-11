@@ -37,7 +37,7 @@ export default {
   font-weight: bold;
   text-decoration: none;
   color: $color-buttonAlt-text;
-  background: $color-buttonAlt-bg;
+  background: $color-primary;
   border: 2px solid $color-buttonAlt-border;
   border-radius: 0.625rem;
   box-shadow: 0px 0.6em 1.25em $color-buttonAlt-shadow;
@@ -46,7 +46,7 @@ export default {
 
   &:hover,
   &:focus {
-    background: $color-buttonAlt-bg-hover;
+    background: $color-primary;
     box-shadow: 0px 1.25em 2.5em $color-buttonAlt-shadow;
     transform: scale(1.03);
   }
