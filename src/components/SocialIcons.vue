@@ -32,6 +32,10 @@ export default {
         {
           link: "https://www.linkedin.com/in/guilherme-lucas-evangelista/",
           svg: "linkedin"
+        },
+        {
+          link: "https://www.instagram.com/guilhermelcs",
+          svg: "instagram"
         }
       ]
     }
