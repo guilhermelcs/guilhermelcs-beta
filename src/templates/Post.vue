@@ -2,6 +2,7 @@
   <Layout>
     <main role="main" class="post" :style="cssProps">
       <header class="post__header header">
+        <div class="header-overlay"></div>
         <div class="header__wrapper">
           <h1 class="header__title display-xl">{{ $page.post.title }}</h1>
           <hr class="header__divider" />
@@ -111,6 +112,7 @@ export default {
 }
 
 .header {
+  position: relative;
   padding: 0 $size-gutter-width;
   display: flex;
   width: 100%;
@@ -123,21 +125,26 @@ export default {
   background-size: cover;
 
   &__wrapper {
+    z-index: 10;
     max-width: 800px;
     text-align: center;
   }
 
   &__title {
+    z-index: 10;
     margin-bottom: 20px;
     font-size: 4rem;
+    line-height: 4rem;
   }
 
   &__title,
   &__summary {
+    z-index: 10;
     color: var(--color-title);
   }
 
   &__divider {
+    z-index: 10;
     margin: 0px auto 40px;
     display: block;
     max-width: 150px;
@@ -145,5 +152,16 @@ export default {
     background-color: $color-green;
     border: none;
   }
+}
+
+.header-overlay {
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  background: #0000009c;
 }
 </style>
