@@ -111,7 +111,7 @@ E olha, passar por tudo isso foi tão difícil que ás vezes parecia que minha a
 
 E eu faria tanta coisa diferente, que vou dedicar uma publicação somente para explicar tudo o que aprendi com este término... Então se você está em um relacionamento, ou acabou de terminar um, recomendo que leia esta publicação quando ela estiver no ar, te prometo que vou te ajudar de uma forma ou de outra.
 
-### Sobre mim, do futuro
+### Produtividade e Autoconhecimento
 Antes de eu te contar sobre meus planos para o futuro, vou listar os maiores erros que cometi neste período vergonhoso da minha vida. E se você está cometendo alguns ou vários destes mesmos erros, mude urgentemente, porque talvez você está prestes a perder coisas e pessoas importantes na sua vida!
 * **Jogos, vídeos, e procrastinação**
   
@@ -145,18 +145,42 @@ Antes de eu te contar sobre meus planos para o futuro, vou listar os maiores err
 
     Existem pessoas que ainda não encontraram um sonho ou um propósito, e bom, não tenho um bom conselho pra você se este for seu caso. Mas tenta descobrir se na verdade você até tem um, mas está deixando seu medo e insegurança falarem mais alto e fazendo com que você ache que é só uma ideia maluca sua. E outra, é você quem constrói seus próprios sonhos... Você não vai achar eles te esperando, jogados por aí. Então se aventure, experimente e se aprofunde em novos assuntos, e sempre mantenha a mente aberta para enxergar e aceitar sonhos e propósitos que você vier a ter.
 
-    E para aqueles que sonham alto, faça um favor para você mesmo e não seja só um grande sonhador, mas seja um **fazedor** maior ainda!
+    Se, por exmeplo, você sempre teve muita vontade de viajar o mundo, mas sempre achou que isso era um clichê, ou que só pessoas muito ricas podem fazer isto, para de ser uma pessoa cagona, assuma isso como um sonho, e comece a explorar todas as formas possíveis de transformar seu sonho em realidade o mais rápido possível. Quando você se der conta, vai ter se tornado uma pessoa muito melhor, mais completa e valiosa do que a sua versão que é medrosa demais para assumir um sonho só porque se importa com que os outros vão pensar ou porque tem medo do que pode acontecer.
+
+    E para aqueles que já sonham alto, faça um favor para você mesmo e não seja só um grande sonhador, mas seja um **fazedor** maior ainda!
 
     Eu perdi o respeito e admiração das pessoas ao meu redor quando ao invés de trabalhar incansavelmente em transformar meus sonhos em realidade, eu aceitei a zona de conforto e fiz o que tinha de fazer em marcha lenta, quando me dava vontade ou quando nem sequer fazia.
 
     As palavras-chave para ser uma pessoa que tira planos e sonhos do papel são: clareza, disciplina, persistência e consistência.
 
-    Eu confesso que era absurdamente indisciplinado, e ainda preciso trabalhar bastante nisso. Mas sem disciplina você vai ser uma máquina movida a motivação, e a motivação é um combustível absurdamente volátil! Por isso, tenha disciplina, porque nos dias em que a motivação não te acompanhar, você vai fazer o que tem que fazer mesmo sem ela.
+    Eu confesso que era absurdamente indisciplinado, e ainda preciso trabalhar **MUITO** nisso. Mas sem disciplina você vai ser uma máquina movida a motivação, e a motivação é um combustível absurdamente volátil! Por isso, tenha disciplina, porque nos dias em que a motivação não te acompanhar, você vai fazer o que tem que fazer mesmo sem ela andando de mãos dadas com você.
+
+    **Autossuperação**
+
+    Ás vezes você vai estar vivendo sua vida como você sempre viveu, mas, se você reparar bem, vai parecer que está fazendo isso em um modo automático total. Tipo quando você tá lendo um livro, e depois de ler uma página inteira dele você se dá conta de que não tem a menor ideia do que acabou de ler porque sua cabeça estava lendo sozinha, sem você ali prestando atenção. E é impressionante, porque seus olhos passaram por cada letra, sua mente sussurrou cada palavra lida, como ela faz normalmente... Mas o simples fato de você não estar completamente **comprometido** ou interessado em interpretar o que aquilo tudo significava, e o que as palavras estavam querendo te dizer, te fez perder a noção da realidade e agir de forma completamente automatizada.
+    
+    Já parou pra pensar quantas vezes por dia isso acontece com você, mas enquanto faz outras coisas, fora a leitura? Já parou pra pensar que, talvez, sua falta de comprometimento com as "letrinhas que formam o seu dia" está colocando a sua vida e as suas decisões no modo automático, e que você está vivendo com uma ilusão bem convincente de que está no controle, mas que na verdade não sabe onde sua vida vai parar daqui alguns anos?
+
+    Sinto te dizer, mas as chances disto estar acontecendo com você não são poucas!
+
+    Na minha vida, eu passei muito mais tempo no modo automático do que realmente no controle. E posso dizer que as coisas mais importantes que conquistei, as coisas que me trouxeram felicidade de verdade, foram conquistadas no pouco tempo em que eu estive no controle. As ações que tomei, anos atrás, enquanto estava completamnete antenado nas minhas vontades, motivações e ações, me trazem felicidade e bons momentos até hoje!
+
+    Mas, por ter passado muito tempo em um modo automático, turbinado com um vício em procrastinar e somado com o desleixo com as responsabilidades que assumi enquanto estava no controle, eu tomei decisões e deixei escapar oportunidades que vão me doer por muito tempo.
+
+    Eu ainda não sei com toda certeza o que me despertou deste modo automático algumas vezes, nem o que me colocou nele de novo vezes depois. A sensação que tenho é que todas as vezes em que eu quis muito uma coisa, mas muito mesmo, me deu um estalo e de repente eu podia tomar decisões inteligentes, enxergar caminhos que, modestamente, não são vistos por qualquer um, e agir com muita autenticidade e personalidade.
+
+    Quando quis deixar de ser um vexamoso "Boca Virgem", aos 14 anos de idade, tomei decisões que me fizeram, além de beijar na boca pela primeira vez na vida, construir e manter um relacionamento que durou 7 anos. Quando quis sair do Brasil e imigrar para o Canadá com a minha namorada, aos 17 anos de idade, enxerguei caminhos ousados, mas que não cabia só a mim a decisão de segui-los ou não. Mas mesmo não tendo seguido os caminhos ousados e nada tradicionais, graças a este período eu tomei deciões que me possibilitaram ter um emprego bem remunerado aos 19 anos de idade. Quando não quis passar mais de 5 anos numa sala de aula estudando coisas que eu sabia que não seriam úteis para o meu objetivo, tomei decisões que me colocaram no mercado de trabalho com 4 anos, ou mais, de vantagem dos meus colegas de curso, que quando se formarem vão procurar o mesmo tipo de emprego que estou ocupando há 3 anos.
+
+    Minha última grande vontade, antes de colocar tudo a perder, foi a de conquistar minha liberdade de tempo e de espaço, me tornando empreendedor. Eu simplesmente odiava, e ainda odeio muito, não poder passar algumas horas a mais em casa para receber uma visita querida, ou não poder trabalhar em um café legal quando eu estivesse de saco cheio do trânsito ou do metrô lotado. E mais do que isso, eu queria fazer algo mais excitante da vida do que ficar montando sites bonitinhos 8 horas por dia, queria orgulhar meus pais fazendo algo que além de impactante fosse recompensador, e queria ter condições de sustentar minha própria casa com a minha esposa. 
+    
+    Graças a isso eu pude, de novo, enxergar caminhos ousados, e tomar decisões que me trazem benefícios até hoje. Hoje, além de programador, sou editor de vídeos (com um trabalho internacional no currículo), fui copywriter (fajuto, mas fui), operador de câmera, e fui produtor e diretor de vídeos educacionais.
+
+    Claro, deu errado, e me deixei levar por esta derrota. Mas ainda tenho as mesmas habilidades, a mesma visão, e a mesma ambição que tinha quando terminei este projeto, e isso é muito valioso para mim!
+
+    A lição desta história toda é que seu cérebro quer poupar sua energia, e pra isso ele automatiza tarefas que você faz repetidamente, daí surgem os seus hábitos e a sua zona de conforto. O seu trabalho, por mais contraintuitivo que seja, é dificultar a vida do seu cérebro tomando decisões mais complexas, mais ousadas e que mais fazem sentido pra você conquistar seus objetivos. A cada vez que você faz isso, de se esforçar conscientemente para superar seu prórprio cérebro, você aumenta o raio de ação da sua zona de conforto, e seu modo automático vai ser mais inteligente e poderoso do que era antes. E aí você entra em um ciclo de quebrar seu modo automático, tomar decisões que vão fazer do seu modo automático mais poderoso e inteligente, e eventualmente entrar neste novo modo automático, e repetir o ciclo. 
+
+    Eu admito que não tenho controle nenhum sobre meu modo automático, mas sei de algumas coisas que funcionam, e estou praticando outras para ver se elas vão me ajudar ou não. Eu sei, com certeza, que o primeiro e mais importante elemento é ter uma vontade, uma visão de alguma coisa que você quer muito, ou não quer muito. E essa foi a lista de coisas que sei com certeza. A partir daí você tem que fazer o possível para tomar decisões que vão te aproximar deste sonho, e não tomar decisões que vão te afastar dele.
+
+    Para finalizar, 
 
     **Autoconhecimento**
-
-    Ás vezes você vai estar vivendo sua vida, e se estiver reparando bem, vai parecer que está fazendo isso no modo automático. Tipo quando você tá lendo um livro, e depois de ler uma página inteira dele, você se dá conta de que não tem ideia do que acabou de ler porque sua cabeça estava lendo sozinha, sem você ali prestando atenção. E é impressionante, porque seus olhos passaram por cada letra, sua mente sussurrou cada palavra lida como ela faz normalmente, mas o simples fato de você não estar completamente comprometido ou interessado em interpretar o que aquilo tudo significava, e o que as palavras estavam querendo te dizer, te fez perder a noção da realidade e agir de forma completamente automatizada.
-    
-    Mas agora, o que te garante que você não está passando por este mesmo processo hipnótico, em grande escala, em vários setores da sua vida? Você está mesmo comprometido com o que está acontecendo ao seu redor? Ou está só reagindo a elas, de forma me automatizada?
-
-    
